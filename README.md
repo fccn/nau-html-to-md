@@ -4,8 +4,9 @@ This repository has a script that allows to convert HTML to Markdown.
 
 It allows to convert a specific single file or to multiple files at once.
 
-Package: https://pypi.org/project/markdownify/
-Dependency: https://github.com/matthewwithanm/python-markdownify
+This repository uses the package: https://pypi.org/project/markdownify/
+
+Its source code is on: https://github.com/matthewwithanm/python-markdownify
 
 ## Installation
 
